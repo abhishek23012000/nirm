@@ -26,3 +26,24 @@ Update:
 "https://nirmtask.herokuapp.com/api/cloth/update/{idOfCloth}"
 
 
+## Tools and Packages used
+
+<p>
+1.Node.js
+  </p>
+
+<p>
+  
+  </p>
+  <p>
+  2.MongoDB 
+  </p>
+  <p>
+  3.Express.js
+  </p>
+  <p>
+  4.JWT 
+  </p>
+<p>
+5.Passport.js
+  </p>
