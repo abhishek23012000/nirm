@@ -20,9 +20,9 @@ getAllcloth:
 "https://nirmtask.herokuapp.com/api/cloth/getallcloth"
 
 Delete :
-"https://nirmtask.herokuapp.com/api/cloth/delete/<id of cloth>"
+"https://nirmtask.herokuapp.com/api/cloth/delete/{idOfCloth}"
  
 Update:
-"https://nirmtask.herokuapp.com/api/cloth/update/<id of cloth>"
+"https://nirmtask.herokuapp.com/api/cloth/update/{idOfCloth}"
 
 
