@@ -6,7 +6,7 @@ https://www.postman.com/collections/ab4b6cf879628e0f66c6
 <h4>User</h4>
 
 Adduser :
-"url": "https://nirmtask.herokuapp.com/api/user/adduser"
+ "https://nirmtask.herokuapp.com/api/user/adduser"
 
 Login
 "https://nirmtask.herokuapp.com/api/user/login"
