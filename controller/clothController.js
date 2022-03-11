@@ -19,7 +19,7 @@ module.exports = {
           message: "Probably you have missed certain fields",
         });
       }
-      const profile_url = `http://localhost:5000/avatar/${req.file.filename}`;
+      const profile_url = `https://nirmtask.herokuapp.com/avatar/${req.file.filename}`;
       const newCloth = await new Cloth({
         description,
         price,
